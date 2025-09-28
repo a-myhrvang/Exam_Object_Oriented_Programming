@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Ekamen PGR112"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="mysql.connector.j" value="project"/>
+		<level name="mysql.connector.j1" value="project"/>
+		<level name="mysql.connector.j2" value="project"/>
+	</levels>
+</component>
